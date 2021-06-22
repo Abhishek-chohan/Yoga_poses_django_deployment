@@ -1,4 +1,5 @@
-# django_dep
+# 
+Yoga_poses_django_deployment-
 
 DATASET_LINK ---> https://www.kaggle.com/niharika41298/yoga-poses-dataset
 
