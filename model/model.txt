@@ -1,1 +1,2 @@
-Download
+Download the model and save it as model.h5 in the model directory
+
